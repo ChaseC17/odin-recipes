@@ -1,0 +1,17 @@
+/* styles.css */
+div{
+    color: chocolate;
+    text-align: center;
+    font-size: xx-large;
+}
+.mid-text {
+    color:navy
+}
+
+.bottom-text {
+    color: black
+}
+.picture {
+    height: 1000px;
+    width: 500px;
+}
